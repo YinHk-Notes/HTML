@@ -6,3 +6,27 @@ The DOM is an object representation of the HTML elements. It acts as a bridge be
 
 
 You can use DOM methods and a programming language, such as JavaScript, to listen to user events and manipulate the DOM by selecting, adding, updating, and deleting specific elements in the user interface. DOM manipulation allows you to not only target specific elements, but also change their style and content.
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page Title</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="mystyle.css">
+  <style>
+    body {background-color: powderblue;}
+    h1 {color: red;}
+    p {color: blue;}
+  </style>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+  
+</body>
+</html>
+```
