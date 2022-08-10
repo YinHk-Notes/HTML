@@ -17,3 +17,8 @@
 | type | Returns which type of form element a text field is |
 | value | Sets or returns the value of the value attribute of the text field |
 
+| Method | Description |
+| --- | --- |
+| blur() | Removes focus from a text field |
+| focus() | Gives focus to a text field |
+| select() | Selects the content of a text field |
