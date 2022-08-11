@@ -6,7 +6,7 @@ HTML and DOM
 
 - It is ***a structured representation of the HTML elements that are present in a webpage or web-app***. 
 
-- **DOM represents the entire UI of your application**. ***The DOM is represented as a tree data structure***. It contains a node for each UI element present in the web document.
+- **DOM represents the entire UI of your application**. ***The DOM is represented as a tree data structure***. It **contains a node for each UI element present in the web document**.
 
 - You can use DOM methods and a programming language, such as JavaScript, to **listen to user events and manipulate the DOM by selecting, adding, updating, and deleting specific elements in the user interface**. 
 
