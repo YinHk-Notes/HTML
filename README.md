@@ -8,8 +8,9 @@ HTML and DOM
 
 - **DOM represents the entire UI of your application**. ***The DOM is represented as a tree data structure***. It contains a node for each UI element present in the web document.
 
-- You can use DOM methods and a programming language, such as JavaScript, to **listen to user events and manipulate the DOM by selecting, adding, updating, and deleting specific elements in the user interface**. DOM manipulation allows you to not only target specific elements, but also change their style and content.
+- You can use DOM methods and a programming language, such as JavaScript, to **listen to user events and manipulate the DOM by selecting, adding, updating, and deleting specific elements in the user interface**. 
 
+- DOM manipulation allows you to **not only target specific elements, but also change their style and content**.
 
 
 ```html
