@@ -18,9 +18,9 @@ Metadata will not be displayed on the page, but is machine parsable.
 Metadata is used by browsers (how to display content or reload page), search engines (keywords), and other web services.
   
   
-| Attribute | Value |
-| --- | --- |
-| charset | character_set |
-| content | text |
-| http-equiv | content-security-policycontent-typedefault-stylerefresh |
-| name | application-nameauthordescriptiongeneratorkeywordsviewport |
+| Attribute | Value | Description |
+| --- | --- | --- |
+| charset | character_set | Specifies the character encoding for the HTML document |
+| content | text | Specifies the value associated with the http-equiv or name attribute |
+| http-equiv | content-security-policycontent-typedefault-stylerefresh | Provides an HTTP header for the information/value of the content attribute |
+| name | application-nameauthordescriptiongeneratorkeywordsviewport | Specifies a name for the metadata |
