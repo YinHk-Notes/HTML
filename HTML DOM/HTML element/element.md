@@ -1,4 +1,4 @@
-
+The following properties and methods can be used on all HTML elements object:
 | Property / Method | Description |
 | --- | --- |
 | accessKey | Sets or returns the accesskey attribute of an element |
